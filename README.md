@@ -1,5 +1,8 @@
 # 💻 Projeto de POO
 
+# Aplicação 4.0
+- Sem salvamento de arquivos
+
 # Aplicação 4.1
 - Salvamento de arquivo via FileSaver
 
